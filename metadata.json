@@ -1,0 +1,6 @@
+{
+  "name": "WritingMaster AI — Google Sites Edition",
+  "description": "Gestión, OCR manuscrito con IA y corrección de redacciones en inglés (4t ESO Catalunya) optimizado para incrustar en Google Sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
